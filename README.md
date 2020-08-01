@@ -1,7 +1,7 @@
 ## CNN and GAN Comparison Study
 By: Jacob Boness, Colton Davenport, Jamie Thomassen
 
-To create tfrecords use dataset creator found here: https://github.com/daitan-innovation/cnn-audio-denoiser
+To create tfRecords use dataset creator found here: https://github.com/daitan-innovation/cnn-audio-denoiser
 
 Each notebook has running instructions.
 Here's a typical Run Order -
