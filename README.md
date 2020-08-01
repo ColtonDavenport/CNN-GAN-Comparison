@@ -18,11 +18,14 @@ Here's a typical Run Order -
 		* A directory of noisy voices
 		* A directory for checkpoints
 4) Audio_Denoiser.ipynb:
-	* For this have:
-		* A directory of noisy voices
-		* The path of a checkpoint
-		* A directory for denoised voices
+
+* For this have:
+	* A directory of noisy voices
+	* The path of a checkpoint
+	* A directory for denoised voices
 
 Sources:
+
 CNN: Daitan's Audio Denoiser - https://github.com/daitan-innovation/cnn-audio-denoiser
+
 GAN: Pix2Pix - https://www.tensorflow.org/tutorials/generative/pix2pix
